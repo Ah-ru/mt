@@ -1,0 +1,13 @@
+h1 {
+    background: green;
+}
+.P1 {
+    border: green solid 5px;
+    border-radius: 30px;
+}
+
+.img {
+    margin-left: 500px ;
+    width: 500px;
+    height: 500px;
+}
