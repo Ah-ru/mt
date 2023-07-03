@@ -2,8 +2,13 @@ h1 {
     background: green;
 }
 .P1 {
+    background: green;
+    margin-top: 500px;
+    text-align: center;
+    font-size: 24px ;
     border: green solid 5px;
     border-radius: 30px;
+    transform: rotate(50deg);
 }
 
 .img {
